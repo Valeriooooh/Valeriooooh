@@ -1,9 +1,8 @@
 ### Hi there 👋
 
+I'm currently a Programming student at António Damásio High School.
 
-**Valeriooooh/Valeriooooh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Here are some topics I have developed:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
