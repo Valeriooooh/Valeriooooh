@@ -8,7 +8,6 @@ Here are some topics I am interested in:
 -  🦀 Rust
 -  🐹 Go
 -  ☕ Java
-- Kotlin
 - Clojure
 - Haskell
 
