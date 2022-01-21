@@ -1,13 +1,14 @@
 ### Hi there 👋
 
-I'm currently a Programming student at António Damásio High School.
+I'm currently a Computer Science student at Instituto Superior de Tecnologias Avançadas.
 
 Here are some topics I am interested in:
 
 - 🐧Linux
--  🦀 Rust
--  🐹 Go
--  ☕ Java
+- 🦀 Rust
+- 🐹 Go
+- C
+- ☕ Java
 - Clojure
 - Haskell
 
