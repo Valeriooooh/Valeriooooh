@@ -6,11 +6,9 @@ Here are some topics I am interested in:
 
 - 🐧Linux
 - 🦀 Rust
-- 🐹 Go
 - C
-- ☕ Java
-- Clojure
 - Haskell
-
+- Clojure
+- ☕ Java
 
 [![Valeriooooh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valeriooooh&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
