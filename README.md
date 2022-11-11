@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently a Computer Science student at Instituto Superior de Tecnologias Avançadas.
+I'm currently a Computer Science student at ISCTE-IUL.
 
 Here are some topics I am interested in:
 
